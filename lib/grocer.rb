@@ -29,10 +29,6 @@ def consolidate_cart(cart)
    
  end
     #return new_cart_array
-   
-    #binding.pry
- 
- 
   
   # Consult README for inputs and outputs
   #
